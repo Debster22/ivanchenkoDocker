@@ -1,6 +1,6 @@
 Markdown
 ## Student
-- Name: Пахалович Д.О
+- Name: Іванченко
 - Group: 232он
 
 ## Практичне заняття №2 — NestJS + PostgreSQL + Redis
