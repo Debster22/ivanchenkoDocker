@@ -1,5 +1,5 @@
 ## Student
-- Name: <Пахалович Д.О>
+- Name: <Іванченко>
 - Group: <232/2 он>
  
 ## Практичне заняття №4 — DTO + class-validator + Pipes
