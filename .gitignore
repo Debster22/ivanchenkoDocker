@@ -1,0 +1,7 @@
+# У .gitignore має бути рядок:
+.env
+ 
+# Але для навчального проекту — додаємо .env.example
+cp .env .env.example
+# У .env.example залиш ті ж ключі, але порожні або з прикладами
+node_modules
